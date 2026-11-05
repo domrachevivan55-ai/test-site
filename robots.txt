@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kb-envil.ru/sitemap.xml
